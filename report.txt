@@ -1,0 +1,440 @@
+Info: Reading netlist file "C:\Users\peter\OneDrive\Documents\KiCad\USLI_RF_breakout\RFBreakout.net".
+
+Info: Using references to match components and footprints.
+
+Error: No footprint defined for component 'AE1'.
+
+Info: Checking netlist component footprint "AE1:/5BEAD749:".
+
+Error: Cannot add new component "AE1:/5BEAD749" due to missing footprint "".
+
+Info: Checking netlist component footprint "C1:/5BDFE617:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C1:/5BDFE617" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Changing component "C1:/5BDFE617" pin "1" net name from "" to "Vdd".
+
+Changing component "C1:/5BDFE617" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C2:/5BE01557:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C2:/5BE01557" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Changing component "C2:/5BE01557" pin "1" net name from "" to "Vdd".
+
+Changing component "C2:/5BE01557" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C3:/5BDFE5F6:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C3:/5BDFE5F6" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Changing component "C3:/5BDFE5F6" pin "1" net name from "" to "Net-(C3-Pad1)".
+
+Changing component "C3:/5BDFE5F6" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C4:/5BEA89C2:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C4:/5BEA89C2" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Changing component "C4:/5BEA89C2" pin "1" net name from "" to "GND".
+
+Changing component "C4:/5BEA89C2" pin "2" net name from "" to "Net-(C4-Pad2)".
+
+Info: Checking netlist component footprint "C5:/5BDFE641:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C5:/5BDFE641" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Changing component "C5:/5BDFE641" pin "1" net name from "" to "GND".
+
+Changing component "C5:/5BDFE641" pin "2" net name from "" to "Net-(C5-Pad2)".
+
+Info: Checking netlist component footprint "C6:/5BDFE692:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C6:/5BDFE692" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Changing component "C6:/5BDFE692" pin "1" net name from "" to "GND".
+
+Changing component "C6:/5BDFE692" pin "2" net name from "" to "Net-(C6-Pad2)".
+
+Info: Checking netlist component footprint "C7:/5BE10B52:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C7:/5BE10B52" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Changing component "C7:/5BE10B52" pin "1" net name from "" to "Net-(C7-Pad1)".
+
+Changing component "C7:/5BE10B52" pin "2" net name from "" to "Vdd".
+
+Info: Checking netlist component footprint "C8:/5BDFE6D7:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C8:/5BDFE6D7" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Changing component "C8:/5BDFE6D7" pin "1" net name from "" to "Net-(C8-Pad1)".
+
+Changing component "C8:/5BDFE6D7" pin "2" net name from "" to "Net-(C8-Pad2)".
+
+Info: Checking netlist component footprint "C9:/5BE0FD8B:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C9:/5BE0FD8B" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Changing component "C9:/5BE0FD8B" pin "1" net name from "" to "Net-(C11-Pad2)".
+
+Changing component "C9:/5BE0FD8B" pin "2" net name from "" to "Net-(C9-Pad2)".
+
+Info: Checking netlist component footprint "C10:/5BDFE972:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C10:/5BDFE972" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Changing component "C10:/5BDFE972" pin "1" net name from "" to "Net-(C10-Pad1)".
+
+Changing component "C10:/5BDFE972" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C11:/5BE0FECF:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C11:/5BE0FECF" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Changing component "C11:/5BE0FECF" pin "1" net name from "" to "Net-(C11-Pad1)".
+
+Changing component "C11:/5BE0FECF" pin "2" net name from "" to "Net-(C11-Pad2)".
+
+Info: Checking netlist component footprint "C12:/5BDFE7F0:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C12:/5BDFE7F0" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Changing component "C12:/5BDFE7F0" pin "1" net name from "" to "Net-(C12-Pad1)".
+
+Changing component "C12:/5BDFE7F0" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C13:/5BDFE7C5:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C13:/5BDFE7C5" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Changing component "C13:/5BDFE7C5" pin "1" net name from "" to "Net-(C13-Pad1)".
+
+Changing component "C13:/5BDFE7C5" pin "2" net name from "" to "Net-(C13-Pad2)".
+
+Info: Checking netlist component footprint "C14:/5BE0F075:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C14:/5BE0F075" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Changing component "C14:/5BE0F075" pin "1" net name from "" to "Net-(C14-Pad1)".
+
+Changing component "C14:/5BE0F075" pin "2" net name from "" to "Net-(C11-Pad1)".
+
+Info: Checking netlist component footprint "J1:/5BF379A6:Pin_Headers:Pin_Header_Straight_1x13_Pitch2.54mm_SMD_Pin1Left".
+
+Adding new component "J1:/5BF379A6" footprint "Pin_Headers:Pin_Header_Straight_1x13_Pitch2.54mm_SMD_Pin1Left".
+
+Changing component "J1:/5BF379A6" pin "1" net name from "" to "Vdd".
+
+Changing component "J1:/5BF379A6" pin "3" net name from "" to "GPIO3".
+
+Changing component "J1:/5BF379A6" pin "5" net name from "" to "SI".
+
+Changing component "J1:/5BF379A6" pin "7" net name from "" to "SO".
+
+Changing component "J1:/5BF379A6" pin "9" net name from "" to "CSn".
+
+Changing component "J1:/5BF379A6" pin "11" net name from "" to "AVDD_IF".
+
+Changing component "J1:/5BF379A6" pin "13" net name from "" to "GND".
+
+Changing component "J1:/5BF379A6" pin "2" net name from "" to "RESET".
+
+Changing component "J1:/5BF379A6" pin "4" net name from "" to "GPIO2".
+
+Changing component "J1:/5BF379A6" pin "6" net name from "" to "SCLK".
+
+Changing component "J1:/5BF379A6" pin "8" net name from "" to "GPIO0".
+
+Changing component "J1:/5BF379A6" pin "10" net name from "" to "DVDD".
+
+Changing component "J1:/5BF379A6" pin "12" net name from "" to "AVDD_RF".
+
+Info: Checking netlist component footprint "L1:/5BE10A29:Inductors_SMD:L_0805_HandSoldering".
+
+Adding new component "L1:/5BE10A29" footprint "Inductors_SMD:L_0805_HandSoldering".
+
+Changing component "L1:/5BE10A29" pin "1" net name from "" to "Net-(C9-Pad2)".
+
+Changing component "L1:/5BE10A29" pin "2" net name from "" to "Net-(C7-Pad1)".
+
+Info: Checking netlist component footprint "L2:/5BDFE883:Inductors_SMD:L_0805_HandSoldering".
+
+Adding new component "L2:/5BDFE883" footprint "Inductors_SMD:L_0805_HandSoldering".
+
+Changing component "L2:/5BDFE883" pin "1" net name from "" to "Net-(C12-Pad1)".
+
+Changing component "L2:/5BDFE883" pin "2" net name from "" to "Net-(C13-Pad2)".
+
+Info: Checking netlist component footprint "L3:/5BE0FDEA:Inductors_SMD:L_0805_HandSoldering".
+
+Adding new component "L3:/5BE0FDEA" footprint "Inductors_SMD:L_0805_HandSoldering".
+
+Changing component "L3:/5BE0FDEA" pin "1" net name from "" to "Net-(C11-Pad1)".
+
+Changing component "L3:/5BE0FDEA" pin "2" net name from "" to "Net-(C11-Pad2)".
+
+Info: Checking netlist component footprint "L4:/5BDFE714:Inductors_SMD:L_0805_HandSoldering".
+
+Adding new component "L4:/5BDFE714" footprint "Inductors_SMD:L_0805_HandSoldering".
+
+Changing component "L4:/5BDFE714" pin "1" net name from "" to "Net-(C13-Pad2)".
+
+Changing component "L4:/5BDFE714" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "L5:/5BE0EB26:Inductors_SMD:L_0805_HandSoldering".
+
+Adding new component "L5:/5BE0EB26" footprint "Inductors_SMD:L_0805_HandSoldering".
+
+Changing component "L5:/5BE0EB26" pin "1" net name from "" to "Net-(C13-Pad1)".
+
+Changing component "L5:/5BE0EB26" pin "2" net name from "" to "Net-(C12-Pad1)".
+
+Info: Checking netlist component footprint "L6:/5BE0EBEF:Inductors_SMD:L_0805_HandSoldering".
+
+Adding new component "L6:/5BE0EBEF" footprint "Inductors_SMD:L_0805_HandSoldering".
+
+Changing component "L6:/5BE0EBEF" pin "1" net name from "" to "Net-(C13-Pad1)".
+
+Changing component "L6:/5BE0EBEF" pin "2" net name from "" to "Net-(C14-Pad1)".
+
+Info: Checking netlist component footprint "L7:/5BE100CC:Inductors_SMD:L_0805_HandSoldering".
+
+Adding new component "L7:/5BE100CC" footprint "Inductors_SMD:L_0805_HandSoldering".
+
+Changing component "L7:/5BE100CC" pin "1" net name from "" to "Net-(L7-Pad1)".
+
+Changing component "L7:/5BE100CC" pin "2" net name from "" to "Net-(C11-Pad1)".
+
+Info: Checking netlist component footprint "L8:/5BE104D9:Inductors_SMD:L_0805_HandSoldering".
+
+Adding new component "L8:/5BE104D9" footprint "Inductors_SMD:L_0805_HandSoldering".
+
+Changing component "L8:/5BE104D9" pin "1" net name from "" to "Net-(AE1-Pad1)".
+
+Changing component "L8:/5BE104D9" pin "2" net name from "" to "Net-(L7-Pad1)".
+
+Info: Checking netlist component footprint "R1:/5BEA5A50:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "R1:/5BEA5A50" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Changing component "R1:/5BEA5A50" pin "1" net name from "" to "Net-(R1-Pad1)".
+
+Changing component "R1:/5BEA5A50" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "R2:/5BEACF4E:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "R2:/5BEACF4E" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Changing component "R2:/5BEACF4E" pin "1" net name from "" to "Net-(C7-Pad1)".
+
+Changing component "R2:/5BEACF4E" pin "2" net name from "" to "Vdd".
+
+Info: Checking netlist component footprint "U1:/5BEAAB77:CC1200:CC1200RHBR".
+
+Adding new component "U1:/5BEAAB77" footprint "CC1200:CC1200RHBR".
+
+Changing component "U1:/5BEAAB77" pin "1" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "1" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "1" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "2" net name from "" to "RESET".
+
+Changing component "U1:/5BEAAB77" pin "2" net name from "" to "RESET".
+
+Changing component "U1:/5BEAAB77" pin "2" net name from "" to "RESET".
+
+Changing component "U1:/5BEAAB77" pin "3" net name from "" to "GPIO3".
+
+Changing component "U1:/5BEAAB77" pin "3" net name from "" to "GPIO3".
+
+Changing component "U1:/5BEAAB77" pin "3" net name from "" to "GPIO3".
+
+Changing component "U1:/5BEAAB77" pin "4" net name from "" to "GPIO2".
+
+Changing component "U1:/5BEAAB77" pin "4" net name from "" to "GPIO2".
+
+Changing component "U1:/5BEAAB77" pin "4" net name from "" to "GPIO2".
+
+Changing component "U1:/5BEAAB77" pin "5" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "5" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "5" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "6" net name from "" to "Net-(C3-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "6" net name from "" to "Net-(C3-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "6" net name from "" to "Net-(C3-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "7" net name from "" to "SI".
+
+Changing component "U1:/5BEAAB77" pin "7" net name from "" to "SI".
+
+Changing component "U1:/5BEAAB77" pin "7" net name from "" to "SI".
+
+Changing component "U1:/5BEAAB77" pin "8" net name from "" to "SCLK".
+
+Changing component "U1:/5BEAAB77" pin "8" net name from "" to "SCLK".
+
+Changing component "U1:/5BEAAB77" pin "8" net name from "" to "SCLK".
+
+Changing component "U1:/5BEAAB77" pin "9" net name from "" to "SO".
+
+Changing component "U1:/5BEAAB77" pin "9" net name from "" to "SO".
+
+Changing component "U1:/5BEAAB77" pin "9" net name from "" to "SO".
+
+Changing component "U1:/5BEAAB77" pin "10" net name from "" to "GPIO0".
+
+Changing component "U1:/5BEAAB77" pin "10" net name from "" to "GPIO0".
+
+Changing component "U1:/5BEAAB77" pin "10" net name from "" to "GPIO0".
+
+Changing component "U1:/5BEAAB77" pin "11" net name from "" to "CSn".
+
+Changing component "U1:/5BEAAB77" pin "11" net name from "" to "CSn".
+
+Changing component "U1:/5BEAAB77" pin "11" net name from "" to "CSn".
+
+Changing component "U1:/5BEAAB77" pin "12" net name from "" to "DVDD".
+
+Changing component "U1:/5BEAAB77" pin "12" net name from "" to "DVDD".
+
+Changing component "U1:/5BEAAB77" pin "12" net name from "" to "DVDD".
+
+Changing component "U1:/5BEAAB77" pin "13" net name from "" to "AVDD_IF".
+
+Changing component "U1:/5BEAAB77" pin "13" net name from "" to "AVDD_IF".
+
+Changing component "U1:/5BEAAB77" pin "13" net name from "" to "AVDD_IF".
+
+Changing component "U1:/5BEAAB77" pin "14" net name from "" to "Net-(R1-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "14" net name from "" to "Net-(R1-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "14" net name from "" to "Net-(R1-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "15" net name from "" to "AVDD_RF".
+
+Changing component "U1:/5BEAAB77" pin "15" net name from "" to "AVDD_RF".
+
+Changing component "U1:/5BEAAB77" pin "15" net name from "" to "AVDD_RF".
+
+Changing component "U1:/5BEAAB77" pin "16" net name from "" to "Net-(U1-Pad16)".
+
+Changing component "U1:/5BEAAB77" pin "16" net name from "" to "Net-(U1-Pad16)".
+
+Changing component "U1:/5BEAAB77" pin "16" net name from "" to "Net-(U1-Pad16)".
+
+Changing component "U1:/5BEAAB77" pin "17" net name from "" to "Net-(C9-Pad2)".
+
+Changing component "U1:/5BEAAB77" pin "17" net name from "" to "Net-(C9-Pad2)".
+
+Changing component "U1:/5BEAAB77" pin "17" net name from "" to "Net-(C9-Pad2)".
+
+Changing component "U1:/5BEAAB77" pin "18" net name from "" to "Net-(C14-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "18" net name from "" to "Net-(C14-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "18" net name from "" to "Net-(C14-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "19" net name from "" to "Net-(C12-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "19" net name from "" to "Net-(C12-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "19" net name from "" to "Net-(C12-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "20" net name from "" to "Net-(C13-Pad2)".
+
+Changing component "U1:/5BEAAB77" pin "20" net name from "" to "Net-(C13-Pad2)".
+
+Changing component "U1:/5BEAAB77" pin "20" net name from "" to "Net-(C13-Pad2)".
+
+Changing component "U1:/5BEAAB77" pin "21" net name from "" to "Net-(C10-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "21" net name from "" to "Net-(C10-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "21" net name from "" to "Net-(C10-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "22" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "22" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "22" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "23" net name from "" to "Net-(C8-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "23" net name from "" to "Net-(C8-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "23" net name from "" to "Net-(C8-Pad1)".
+
+Changing component "U1:/5BEAAB77" pin "24" net name from "" to "Net-(C8-Pad2)".
+
+Changing component "U1:/5BEAAB77" pin "24" net name from "" to "Net-(C8-Pad2)".
+
+Changing component "U1:/5BEAAB77" pin "24" net name from "" to "Net-(C8-Pad2)".
+
+Changing component "U1:/5BEAAB77" pin "25" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "25" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "25" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "26" net name from "" to "Net-(C6-Pad2)".
+
+Changing component "U1:/5BEAAB77" pin "26" net name from "" to "Net-(C6-Pad2)".
+
+Changing component "U1:/5BEAAB77" pin "26" net name from "" to "Net-(C6-Pad2)".
+
+Changing component "U1:/5BEAAB77" pin "27" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "27" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "27" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "28" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "28" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "28" net name from "" to "Vdd".
+
+Changing component "U1:/5BEAAB77" pin "29" net name from "" to "Net-(C5-Pad2)".
+
+Changing component "U1:/5BEAAB77" pin "29" net name from "" to "Net-(C5-Pad2)".
+
+Changing component "U1:/5BEAAB77" pin "29" net name from "" to "Net-(C5-Pad2)".
+
+Changing component "U1:/5BEAAB77" pin "30" net name from "" to "Net-(U1-Pad30)".
+
+Changing component "U1:/5BEAAB77" pin "30" net name from "" to "Net-(U1-Pad30)".
+
+Changing component "U1:/5BEAAB77" pin "30" net name from "" to "Net-(U1-Pad30)".
+
+Changing component "U1:/5BEAAB77" pin "31" net name from "" to "Net-(U1-Pad31)".
+
+Changing component "U1:/5BEAAB77" pin "31" net name from "" to "Net-(U1-Pad31)".
+
+Changing component "U1:/5BEAAB77" pin "31" net name from "" to "Net-(U1-Pad31)".
+
+Changing component "U1:/5BEAAB77" pin "32" net name from "" to "Net-(C4-Pad2)".
+
+Changing component "U1:/5BEAAB77" pin "32" net name from "" to "Net-(C4-Pad2)".
+
+Changing component "U1:/5BEAAB77" pin "32" net name from "" to "Net-(C4-Pad2)".
+
+Info: Checking netlist component footprint "Y1:/5BE10C00:Crystals:Crystal_SMD_EuroQuartz_MJ-4pin_5.0x3.2mm_HandSoldering".
+
+Adding new component "Y1:/5BE10C00" footprint "Crystals:Crystal_SMD_EuroQuartz_MJ-4pin_5.0x3.2mm_HandSoldering".
+
+Changing component "Y1:/5BE10C00" pin "1" net name from "" to "Net-(U1-Pad31)".
+
+Changing component "Y1:/5BE10C00" pin "2" net name from "" to "GND".
+
+Changing component "Y1:/5BE10C00" pin "3" net name from "" to "Net-(U1-Pad30)".
+
+Changing component "Y1:/5BE10C00" pin "4" net name from "" to "GND".
+
